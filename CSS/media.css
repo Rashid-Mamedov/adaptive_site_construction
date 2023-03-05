@@ -493,6 +493,12 @@
 }
 
 @media (max-width: 768px) {
+  .section-5__accordion__text {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
   .section-4 {
     margin-bottom: 11%;
   }
